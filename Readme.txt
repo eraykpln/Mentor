@@ -1,0 +1,1 @@
+Bu proje gönüllülük esasına dayalı olarak gönüllü öğretmenlerimiz ve eğitime ulaşma ihtiyacı hisseden depremzede öğrencilerimiz için tamamen ücretsiz olarak  üç gönüllü üniversite öğrencisi tarafından geliştirilmiştir.
